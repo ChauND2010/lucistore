@@ -23,9 +23,9 @@ define('DIR_UPLOAD', DIR_STORAGE . 'upload/');
 
 // DB
 define('DB_DRIVER', 'mysqli');
-define('DB_HOSTNAME', 'monorail.proxy.rlwy.net:24622');
+define('DB_HOSTNAME', 'monorail.proxy.rlwy.net');
 define('DB_USERNAME', 'root');
 define('DB_PASSWORD', 'etvCJlDrImrcYACZIqjUmFAnMsZRLSGq');
 define('DB_DATABASE', 'railway');
-define('DB_PORT', '3306');
+define('DB_PORT', '24622');
 define('DB_PREFIX', 'oc_');
