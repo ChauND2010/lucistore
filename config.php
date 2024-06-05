@@ -6,7 +6,7 @@ define('APPLICATION', 'Catalog');
 define('HTTP_SERVER', 'https://enchanting-gentleness-production.up.railway.app/');
 
 // DIR
-define('DIR_OPENCART', './src/');
+define('DIR_OPENCART', './');
 define('DIR_APPLICATION', DIR_OPENCART . 'catalog/');
 define('DIR_EXTENSION', DIR_OPENCART . 'extension/');
 define('DIR_IMAGE', DIR_OPENCART . 'image/');
