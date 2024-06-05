@@ -7,7 +7,7 @@ define('HTTP_SERVER', 'https://enchanting-gentleness-production.up.railway.app/a
 define('HTTP_CATALOG', 'https://enchanting-gentleness-production.up.railway.app/');
 
 // DIR
-define('DIR_OPENCART', '');
+define('DIR_OPENCART', 'https://enchanting-gentleness-production.up.railway.app/');
 define('DIR_APPLICATION', DIR_OPENCART . 'adminluci/');
 define('DIR_EXTENSION', DIR_OPENCART . 'extension/');
 define('DIR_IMAGE', DIR_OPENCART . 'image/');
