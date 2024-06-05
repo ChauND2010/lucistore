@@ -3,7 +3,7 @@
 define('APPLICATION', 'Catalog');
 
 // HTTP
-define('HTTP_SERVER', 'enchanting-gentleness-production.up.railway.app');
+define('HTTP_SERVER', 'https://enchanting-gentleness-production.up.railway.app/');
 
 // DIR
 define('DIR_OPENCART', './');
